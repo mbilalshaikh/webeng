@@ -19,12 +19,12 @@
 * Scalability
 
 ## Lab
-*HTML
-*CSS
-*JavaScript
-*BootStrap
-*PHP
-*MySQL
+* HTML
+* CSS
+* JavaScript
+* BootStrap
+* PHP
+* MySQL
 
 ## For Improvers/Failures
 
