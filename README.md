@@ -8,7 +8,7 @@ Muhammad Bilal Shaikh
 
 [Facebook Study Group] (http://www.fb.com/groups/webmobiledevelopers)
 
-* Welcome to the class
+also checkout [Google for Study](http://www.google.com)
 
 Languages to work on
 * HTML
