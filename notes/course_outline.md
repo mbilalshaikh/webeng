@@ -30,11 +30,10 @@
 
 ##Lab
 (http://www.github.com/mbilalshaikh/webeng)
-
-*HTML
-*CSS
-*JavaScript
-*PHP
+* HTML
+* CSS
+* JavaScript
+* PHP
 
 ##Theory
 * Web Engineering Attributes & Categories
