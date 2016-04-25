@@ -8,6 +8,8 @@ Muhammad Bilal Shaikh
 
 [Facebook Study Group] (http://www.fb.com/groups/webmobiledevelopers)
 
+##Welcome to the class
+
 Languages to work on
 * HTML
 * CSS
