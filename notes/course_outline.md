@@ -1,17 +1,21 @@
 # Course Outline
 
-* Improvements from previous class
-1. More focus on projects and MySQL
-2. MongoDB based Linux VM Use to extend course towards NoSQL Databases [VM Tutorial](http://www.cs.tufts.edu/comp/20/vm/)
+* Improvements for future classes
+* More focus on projects and MySQL
+* MongoDB based Linux VM Use to extend course towards NoSQL Databases [VM Tutorial](http://www.cs.tufts.edu/comp/20/vm/)
+* SQL,Object Relation Mapper(ORM) (Skipped)
+* iOS, Android, Rails, Django, Backbone.js, AngularJS, ASP, Spring (skipped)
+* Data Modeling
+
+## For Regular Students
 
 ## Theory
 
 * Web Engineering Attributes & Categories
-* Recap to Waterfall,Spiral & Agile Software Development Models
+* Waterfall Model,Spiral & Agile Software Development Models
 * Web Services,REST
-* Model View Controller,Data Modeling | MVC-based frameworks: iOS, Android, Rails, Django, Backbone.js, AngularJS, ASP, Spring
-* SQL,Object Relation Mapper(ORM)
-* Code Optimization
+* Model View Controller | MVC-based frameworks:
+* Static Code Optimization
 * Scalability
 
 ## Lab
@@ -21,3 +25,19 @@
 *BootStrap
 *PHP
 *MySQL
+
+## For Improvers/Failures
+
+Lab(http://www.github.com/mbilalshaikh/webeng)
+*HTML
+*CSS
+*JavaScript
+*BootStrap
+*PHP
+
+##Theory
+* Web Engineering Attributes & Categories
+* Waterfall Model,Spiral & Agile Software Development Models
+* Web Services,REST
+* Model View Controller | MVC-based frameworks:
+* Scalability
