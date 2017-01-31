@@ -28,9 +28,20 @@ Softwares
 
 |Date  |Agenda  |Deliverable
 |-----|-------|----------
-|30 Mar 2016|Scalability |Read Related Notes : facebook,twitter,Ebay,Instagram
-|4 April 2016 | Topics Presentations | Persentations in Lab 1 (2 min 4 Max Each Group)
-|18 April 2016| Projects Demo|Code and Final Demo
+|31 Jan 2017|Scalability |Read Related Notes : facebook,twitter,Ebay,Instagram
+|31 Jan 2017|Scalability |Read Related Notes : facebook,twitter,Ebay,Instagram
+|--------- | Topics Presentations | Persentations in Lab 1 (2 min 4 Max Each Group)
+|--------- | Projects Demo|Code and Final Demo
+
+
+# Lab Sylabus Plan
+
+|Date  |Agenda  |Deliverable
+|-----|-------|----------
+|24 Jan 2017|Lab 1 |HTML
+|31 Jan 2017|Lab 2 |HTML Extended
+|--------- | Topics Presentations | Persentations in Lab 1 (2 min 4 Max Each Group)
+|--------- | Projects Demo|Code and Final Demo
 
 # Course Outline
 
