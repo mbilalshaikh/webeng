@@ -30,9 +30,22 @@ Softwares
 |-----|-------|----------
 |28 Jan 2017|Categories of Web Engineering
 |31 Jan 2017|Categories of Websites
-|02 Feb 2017|Design Patterns
+|01 Feb 2017|Web Development Models
+|08 Feb 2017|Water Fall Model (SDLC)
+|15 Feb 2017|Spiral Model
+|22 Feb 2017|Agile Model
+|29 Feb 2017|Design Patterns
+|06 Mar 2017|MVC
+|13 Mar 2017|MVC Example Framework I
+|20 Mar 2017|MVC Example Framework II
+|27 Mar 2017|ORM(Object Relational Model
+|04 Apr 2017|Web Frameworks
+|11 Apr 2017|Web Services, REST
+|18 Apr 2017|REST
 
-Model-View-Controller, Data Modeling
+
+
+*Model-View-Controller, Data Modeling
 
 Two really important outcomes for any good Computer Science curriculum: (1) good design and (2) separation of concerns
 Design pattern:
