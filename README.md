@@ -89,6 +89,22 @@ Harrison Ford	m	Indiana Jones	1981
 |24 Jan 2017|Lab 1 |HTML
 |31 Jan 2017|Lab 2 |HTML Extended
 |07 Feb 2017|Lab 3 |CSS Startup
+|07 Feb 2017|Lab 4 |CSS Extended
+|14 Feb 2017|Lab 5 |JavaSript Startup
+|21 Feb 2017|Lab 6 |JavaScript Extended
+|28 Feb 2017|Lab 7 |Mixing HTML/CSS/JavaScript
+|07 Mar 2017|Lab 8 |PHP Startup
+|14 Mar 2017|Lab 9 |PHP Fundamentals(XAMPP)
+|21 Mar 2017|Lab 10 |PHP I
+|28 Mar 2017|Lab 11 |PHP II
+|04 Apr 2017|Lab 12 |MYSQL Intro
+|10 Apr 2017|Lab 13 |MYSQL Extended
+|17 Apr 2017|Lab 14 |Project Practice I
+|21 Apr 2017|Lab 15 |Project Practice II
+|28 Apr 2017|Lab 16 |Presentations I
+|04 May 2017|Lab 17 |Presentations II
+|11 May 2017|Lab 18 |Presentations III
+
 |--------- | Topics Presentations | Persentations in Lab 1 (2 min 4 Max Each Group)
 |--------- | Projects Demo|Code and Final Demo
 
