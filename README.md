@@ -28,7 +28,7 @@ Softwares
 
 |Date  |Agenda  |Deliverable
 |-----|-------|----------
-|28 Jan 2017|Categories of Web Engineering
+|28 Jan 2017|Attributes of Web Engineering
 |31 Jan 2017|Categories of Websites
 |01 Feb 2017|Web Development Models
 |08 Feb 2017|Water Fall Model (SDLC)
@@ -36,8 +36,8 @@ Softwares
 |22 Feb 2017|Agile Model
 |29 Feb 2017|Design Patterns
 |06 Mar 2017|MVC
-|13 Mar 2017|MVC Example Framework I
-|20 Mar 2017|MVC Example Framework II
+|13 Mar 2017|MVC Example Framework I(Code Ignitor)
+|20 Mar 2017|MVC Example Framework II(Laravel)
 |27 Mar 2017|ORM(Object Relational Model
 |04 Apr 2017|Web Frameworks
 |11 Apr 2017|Web Services, REST
