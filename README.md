@@ -5,7 +5,7 @@ Web applications are complex systems that deliver a plethora of features to a la
 
 #Results
 
-[Mid Term Results 2017] (https://drive.google.com/open?id=1QkuzYtVwGqI9t6ZMOmuGYd2Qo9UkYr1LQj_HPgAWoDg)
+[Final Results 2017] (https://drive.google.com/open?id=1QkuzYtVwGqI9t6ZMOmuGYd2Qo9UkYr1LQj_HPgAWoDg)
 
 #Instructor
 Muhammad Bilal Shaikh
