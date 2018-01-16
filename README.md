@@ -5,14 +5,12 @@ Web applications are complex systems that deliver a plethora of features to a la
 
 #Results
 
-[Final Results 2017] (https://drive.google.com/open?id=1QkuzYtVwGqI9t6ZMOmuGYd2Qo9UkYr1LQj_HPgAWoDg)
+[Final Results 2018]
 
 #Instructor
 Muhammad Bilal Shaikh
 
 [Facebook Study Group] (http://www.fb.com/groups/webmobiledevelopers)
-
-also checkout [Google for Study](http://www.google.com)
 
 Languages to work on
 * HTML
@@ -32,20 +30,20 @@ Softwares
 
 |Date  |Agenda  |Deliverable
 |-----|-------|----------
-|28 Jan 2017|Attributes of Web Engineering
-|31 Jan 2017|Categories of Websites
-|01 Feb 2017|Web Development Models
-|08 Feb 2017|Water Fall Model (SDLC)
-|15 Feb 2017|Spiral Model
-|22 Feb 2017|Agile Model
-|29 Feb 2017|Design Patterns
-|06 Mar 2017|MVC
-|13 Mar 2017|MVC Example Framework I(Code Ignitor)
-|20 Mar 2017|MVC Example Framework II(Laravel)
-|27 Mar 2017|ORM(Object Relational Model
-|04 Apr 2017|Web Frameworks
-|11 Apr 2017|Web Services, REST
-|18 Apr 2017|REST
+|Week 1|Attributes of Web Engineering
+|Week 2|Categories of Websites
+|Week 3|Web Development Models
+|Week 4|Water Fall Model (SDLC)
+|Week 5|Spiral Model
+|Week 6|Agile Model
+|Week 7|Design Patterns
+|Week 8|MVC
+|Week 9|MVC Example Framework I(Code Ignitor)
+|Week 10|MVC Example Framework II(Laravel)
+|Week 11|ORM(Object Relational Model
+|Week 12|Web Frameworks
+|Week 13|Web Services, REST
+|Week 14|REST
 
 
 
@@ -103,24 +101,23 @@ Harrison Ford	m	Indiana Jones	1981
 
 |Date  |Agenda  |Deliverable
 |-----|-------|----------
-|24 Jan 2017|Lab 1 |HTML
-|31 Jan 2017|Lab 2 |HTML Extended
-|07 Feb 2017|Lab 3 |CSS Startup
-|07 Feb 2017|Lab 4 |CSS Extended
-|14 Feb 2017|Lab 5 |JavaSript Startup
-|21 Feb 2017|Lab 6 |JavaScript Extended
-|28 Feb 2017|Lab 7 |Mixing HTML/CSS/JavaScript
-|07 Mar 2017|Lab 8 |PHP Startup
-|14 Mar 2017|Lab 9 |PHP Fundamentals(XAMPP)
-|21 Mar 2017|Lab 10 |PHP I
-|28 Mar 2017|Lab 11 |PHP II
-|04 Apr 2017|Lab 12 |MYSQL Intro
-|10 Apr 2017|Lab 13 |MYSQL Extended
-|17 Apr 2017|Lab 14 |Project Practice I
-|21 Apr 2017|Lab 15 |Project Practice II
-|28 Apr 2017|Lab 16 |Presentations I
-|04 May 2017|Lab 17 |Presentations II
-|11 May 2017|Lab 18 |Presentations III
+|Week 1|Lab 1 |HTML
+|Week 2|Lab 2 |HTML Extended
+|Week 3|Lab 3 |CSS Startup
+|Week 4|Lab 4 |CSS Extended
+|Week 5|Lab 5 |JavaSript Startup
+|Week 6|Lab 6 |JavaScript Extended
+|Week 7|Lab 7 |Mixing HTML/CSS/JavaScript
+|Week 8|Lab 8 |PHP Startup
+|Week 9|Lab 9 |PHP Fundamentals(XAMPP)
+|Week 10|Lab 10 |PHP I
+|Week 11|Lab 11 |PHP II
+|Week 12|Lab 12 |MYSQL Intro
+|Week 13|Lab 13 |MYSQL Extended
+|Week 14|Lab 14 |Project Practice I
+|Week 15|Lab 15 |Project Demonstration I
+|Week 16|Lab 16 |Project Demonstration II
+
 
 |--------- | Topics Presentations | Persentations in Lab 1 (2 min 4 Max Each Group)
 |--------- | Projects Demo|Code and Final Demo
