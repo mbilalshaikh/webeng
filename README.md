@@ -1,14 +1,17 @@
 
-#Web Engineering
+# Web Engineering
 
 Web applications are complex systems that deliver a plethora of features to a large number of users (including developers), and also exhibit unique behaviors and demands in terms of performance, scalability, usability, and security. This course will discuss the limits of current web technologies, information and service architectures, caching, session and data management.
 
-#Results
+# Results
 
 [Final Results 2018]
 
-#Instructor
+# Instructor
 Muhammad Bilal Shaikh
+
+# Text Book
+Web Engineering: A Practitioner's Approach (https://yslaiseblog.files.wordpress.com/2014/03/pressman-lowe-2009-web-engineering-a-practitioner_s-approach.pdf)
 
 [Facebook Study Group] (http://www.fb.com/groups/webmobiledevelopers)
 
@@ -152,14 +155,14 @@ Harrison Ford	m	Indiana Jones	1981
 
 ## For Improvers/Failures
 
-##Lab
+## Lab
 (http://www.github.com/mbilalshaikh/webeng)
 * HTML
 * CSS
 * JavaScript
 * PHP
 
-##Theory
+## Theory
 * Web Engineering Attributes & Categories
 * Waterfall Model,Spiral & Agile Software Development Models
 * Web Services,REST
