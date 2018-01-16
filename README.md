@@ -13,6 +13,11 @@ Muhammad Bilal Shaikh
 # Text Book
 Web Engineering: A Practitioner's Approach (https://yslaiseblog.files.wordpress.com/2014/03/pressman-lowe-2009-web-engineering-a-practitioner_s-approach.pdf)
 
+# Lecture Slides
+
+Web Engineering: A Practitioner's Approach (https://drive.google.com/open?id=1DWnQn2J2r5qWRmWX2PiKEEFOAKxvhcdr)
+
+
 [Facebook Study Group] (http://www.fb.com/groups/webmobiledevelopers)
 
 Languages to work on
