@@ -180,4 +180,5 @@ Harrison Ford	m	Indiana Jones	1981
 * Waterfall Model,Spiral & Agile Software Development Models
 * Web Services,REST
 * Model View Controller | MVC-based frameworks:
+* Static Code Optimization
 * Scalability
