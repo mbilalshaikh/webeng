@@ -45,21 +45,23 @@ Softwares
 # Sylabus Plan
 
 |Date  |Agenda  |Deliverable
+
 |-----|-------|----------
-|Week 1|Attributes of Web Engineering
-|Week 2|Categories of Websites
-|Week 3|Web Development Models
-|Week 4|Water Fall Model (SDLC)
-|Week 5|Spiral Model
-|Week 6|Agile Model
-|Week 7|Design Patterns
-|Week 8|MVC
-|Week 9|MVC Example Framework I(Code Ignitor)
-|Week 10|MVC Example Framework II(Laravel)
-|Week 11|ORM(Object Relational Model
-|Week 12|Web Frameworks
-|Week 13|Web Services, REST
-|Week 14|REST
+
+|Week 1| Attributes of Web Engineering
+|Week 2| Categories of Websites
+|Week 3| Web Development Models
+|Week 4| Water Fall Model (SDLC)
+|Week 5| Spiral Model
+|Week 6| Agile Model
+|Week 7| Design Patterns
+|Week 8| MVC
+|Week 9| MVC Example Framework I(Code Ignitor)
+|Week 10| MVC Example Framework II(Laravel)
+|Week 11| ORM(Object Relational Model
+|Week 12| Web Frameworks
+|Week 13| Web Services, REST
+|Week 14| REST
 
 
 
