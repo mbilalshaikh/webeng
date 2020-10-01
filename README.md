@@ -1,7 +1,12 @@
 
 # Web Engineering
 
-Web applications are complex systems that deliver a plethora of features to a large number of users (including developers), and also exhibit unique behaviors and demands in terms of performance, scalability, usability, and security. This course will discuss the limits of current web technologies, information and service architectures, caching, session and data management.
+Web applications are complex systems that deliver a plethora of features to a large number of users (including developers),
+exhibit unique behaviors and demands in terms of performance,
+scalability,
+usability,and 
+security.
+This course will discuss the limits of current web technologies, information and service architectures, caching, session and data management.
 
 # Results
 
@@ -29,14 +34,14 @@ Web Engineering: A Practitioner's Approach (https://drive.google.com/open?id=1DW
 [Facebook Study Group] (http://www.fb.com/groups/webmobiledevelopers)
 
 Languages to work on
-* HTML
-* CSS
-* JavaScript
-* PHP
-* MySQL
+1. HTML
+2. CSS
+3. JavaScript
+4. PHP
+5. MySQL
 
 Softwares
-* XAMPP
+1. XAMPP
 
 #Prerequisites
 *Any Basic Programming Course
@@ -45,21 +50,23 @@ Softwares
 # Sylabus Plan
 
 |Date  |Agenda  |Deliverable
+
 |-----|-------|----------
-|Week 1|Attributes of Web Engineering
-|Week 2|Categories of Websites
-|Week 3|Web Development Models
-|Week 4|Water Fall Model (SDLC)
-|Week 5|Spiral Model
-|Week 6|Agile Model
-|Week 7|Design Patterns
-|Week 8|MVC
-|Week 9|MVC Example Framework I(Code Ignitor)
-|Week 10|MVC Example Framework II(Laravel)
-|Week 11|ORM(Object Relational Model
-|Week 12|Web Frameworks
-|Week 13|Web Services, REST
-|Week 14|REST
+
+|Week 1| Attributes of Web Engineering
+|Week 2| Categories of Websites
+|Week 3| Web Development Models
+|Week 4| Water Fall Model (SDLC)
+|Week 5| Spiral Model
+|Week 6| Agile Model
+|Week 7| Design Patterns
+|Week 8| MVC
+|Week 9| MVC Example Framework I(Code Ignitor)
+|Week 10| MVC Example Framework II(Laravel)
+|Week 11| ORM(Object Relational Model
+|Week 12| Web Frameworks
+|Week 13| Web Services, REST
+|Week 14| REST
 
 
 
