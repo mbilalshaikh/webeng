@@ -29,14 +29,14 @@ Web Engineering: A Practitioner's Approach (https://drive.google.com/open?id=1DW
 [Facebook Study Group] (http://www.fb.com/groups/webmobiledevelopers)
 
 Languages to work on
-* HTML
-* CSS
-* JavaScript
-* PHP
-* MySQL
+1. HTML
+2. CSS
+3. JavaScript
+4. PHP
+5. MySQL
 
 Softwares
-* XAMPP
+1. XAMPP
 
 #Prerequisites
 *Any Basic Programming Course
